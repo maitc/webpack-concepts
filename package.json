@@ -1,0 +1,16 @@
+{
+  "name": "usando-webpack",
+  "version": "1.0.0",
+  "description": "aprendiendo-webpack",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "author": "Maibeet",
+  "license": "ISC",
+  "devDependencies": {
+    "file-loader": "^1.1.6",
+    "webpack": "^3.10.0"
+  }
+}
